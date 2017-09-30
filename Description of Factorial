@@ -1,0 +1,3 @@
+Learning Factorials with Loop/Recursion
+If n is an integer greater than 0, n factorial (n!) is the product: n*(n-1)*(n-2)*(n-3)...*
+By convention, 0!=1.
